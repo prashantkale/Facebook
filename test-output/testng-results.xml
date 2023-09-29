@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-24T18:43:07 IST" name="Default suite" finished-at="2023-09-24T18:44:00 IST" duration-ms="52294">
+    <groups>
+    </groups>
+    <test started-at="2023-09-24T18:43:07 IST" name="Default test" finished-at="2023-09-24T18:44:00 IST" duration-ms="52294">
+      <class name="test.FacebookLoginTest">
+        <test-method signature="enetrInvalidUnameAndValidPassword()[pri:0, instance:test.FacebookLoginTest@1283bb96]" started-at="2023-09-24T18:43:07 IST" name="enetrInvalidUnameAndValidPassword" finished-at="2023-09-24T18:43:28 IST" duration-ms="20135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enetrInvalidUnameAndValidPassword -->
+        <test-method signature="enterValidCredentials()[pri:0, instance:test.FacebookLoginTest@1283bb96]" started-at="2023-09-24T18:43:28 IST" name="enterValidCredentials" finished-at="2023-09-24T18:43:45 IST" duration-ms="16777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterValidCredentials -->
+        <test-method signature="enterValidUnameAndInvalidPassword()[pri:0, instance:test.FacebookLoginTest@1283bb96]" started-at="2023-09-24T18:43:45 IST" name="enterValidUnameAndInvalidPassword" finished-at="2023-09-24T18:44:00 IST" duration-ms="14995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterValidUnameAndInvalidPassword -->
+      </class> <!-- test.FacebookLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
