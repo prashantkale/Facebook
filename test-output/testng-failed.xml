@@ -5,9 +5,12 @@
     <classes>
       <class name="test.FacebookLoginTest">
         <methods>
-          <include name="enterValidCredentials"/>
+          <include name="flushData"/>
           <include name="enetrInvalidUnameAndValidPassword"/>
+          <include name="addReports"/>
+          <include name="browser"/>
           <include name="enterValidUnameAndInvalidPassword"/>
+          <include name="closeBrowser"/>
         </methods>
       </class> <!-- test.FacebookLoginTest -->
     </classes>
